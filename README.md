@@ -8,7 +8,7 @@
     <img width=22px src="https://dashboard.snapcraft.io/site_media/appmedia/2021/05/discord.png" align="left" max-width="100%" alt="Discord"/>
   </a>
   
-  <a src="https://api.whatsapp.com/send?phone=51913242570">
+  <a href="https://api.whatsapp.com/send?phone=51913242570">
     <img width=22px src="https://image.flaticon.com/icons/png/512/733/733585.png" style="border-radius: 50px;" align="left" max-width="100%" alt="Whatsapp">
   </a>
 </div> 
