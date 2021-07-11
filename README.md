@@ -1,4 +1,4 @@
-## Welcome to my Userpage!
+## Welcome to my Profile!
 
 > <img width=20px src="https://dashboard.snapcraft.io/site_media/appmedia/2021/05/discord.png" align="center" max-width="100%" alt="Discord"/> • Polroid#9773
 <a href="https://www.linkedin.com/in/devdonatto-minaya/">
@@ -14,3 +14,5 @@
 
 #### 💬 About me
 - 👤 19 years old
+- 🌍 Portuguese , Spanish `(Native)` , English , Hangul `(Learning)`
+- 🖤 Violin | Photography
