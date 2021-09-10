@@ -32,3 +32,5 @@
 <img  width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/VSCodium_Logo.png/480px-VSCodium_Logo.png" align="left" max-width="100%" alt="VSCodium">
 
 <img  width="40px" src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" align="left" max-width="100%" alt="VSCodium">
+  
+<img  width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Visual_Studio_2017_Logo.svg/1200px-Visual_Studio_2017_Logo.svg.png" align="left" max-width="100%" alt="Visual Studio">
