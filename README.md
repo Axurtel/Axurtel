@@ -30,6 +30,8 @@
 <img width="40px" src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" align="left" max-width="100%" alt="Postman" >
   
 <img  width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/VSCodium_Logo.png/480px-VSCodium_Logo.png" align="left" max-width="100%" alt="VSCodium">
+  
+<img width="42px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_angular_icon_130754.png" align="left" max-width="100%" alt="Angular">
 
 <img  width="40px" src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" align="left" max-width="100%" alt="Eclipse">
   
