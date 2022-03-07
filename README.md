@@ -7,7 +7,7 @@
 </a>
   
 <a href="https://api.whatsapp.com/send?phone=51913242570">
-  <img width=22px src="https://image.flaticon.com/icons/png/512/733/733585.png" style="border-radius: 50px;" align="left" max-width="100%" alt="Whatsapp">
+  <img width=22px src="https://cdn-icons-png.flaticon.com/512/134/134937.png" style="border-radius: 50px;" align="left" max-width="100%" alt="Whatsapp">
 </a>
 
 <a href="https://www.sololearn.com/profile/15661325">
