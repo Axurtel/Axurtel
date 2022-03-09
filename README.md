@@ -3,7 +3,7 @@
 > <img width=20px src="https://dashboard.snapcraft.io/site_media/appmedia/2021/05/discord.png" align="center" max-width="100%" alt="Discord"/> • Polroid#9773
 
 <a href="https://www.linkedin.com/in/devdonatto-minaya/">
-  <img width=22px src="https://image.flaticon.com/icons/png/512/145/145807.png" align="left" max-width="100%" alt="LinkedIn"/>
+  <img width=22px src="https://cdn-icons-png.flaticon.com/512/174/174857.png" align="left" max-width="100%" alt="LinkedIn"/>
 </a>
   
 <a href="https://api.whatsapp.com/send?phone=51913242570">
