@@ -1,5 +1,5 @@
-## Welcome to my Profile!
-
+## Welcome to my Profile! 
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=donatto22)](https://github.com/donatto22)
 > <img width=20px src="https://dashboard.snapcraft.io/site_media/appmedia/2021/05/discord.png" align="center" max-width="100%" alt="Discord"/> • Polroid#9773
 
 <a href="https://www.linkedin.com/in/devdonatto-minaya/">
@@ -13,7 +13,7 @@
 <a href="https://www.sololearn.com/profile/15661325">
   <img width=22px src="https://pbs.twimg.com/profile_images/1410707398021550084/MmGTT4dY_400x400.jpg" align="left" max-width="100%" alt="SoloLearn"
 </a>
-<br>
+</br>
 
 <hr>
 
@@ -21,22 +21,36 @@
 - 👤 19 years old
 - 🌍 Portuguese , Spanish `(Native)` , English , Hangul `(Learning)`
 - 🖤 Violin | Photography
-  
-###  Tools
-<img width=40px src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png" align="left" max-width="100%" alt="Android Studio">
+</br>
 
-<img width="40px" src="https://iconape.com/wp-content/png_logo_vector/git-icon.png" align="left" max-width="100%" alt="Git">
-  
-<img width="40px" src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" align="left" max-width="100%" alt="Postman" >
-  
-<img  width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/VSCodium_Logo.png/480px-VSCodium_Logo.png" align="left" max-width="100%" alt="VSCodium">
-  
-<img width="42px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_angular_icon_130754.png" align="left" max-width="100%" alt="Angular">
+## 💼 Technical Skills
 
-<img  width="40px" src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" align="left" max-width="100%" alt="Eclipse">
-  
-<img  width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Visual_Studio_2017_Logo.svg/1200px-Visual_Studio_2017_Logo.svg.png" align="left" max-width="100%" alt="Visual Studio">
-  
-<img  width="42px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png" align="left" max-width="100%" alt="MySql Workbench">
-  
-<img  width="42px" src="https://huongdanjava.com/wp-content/uploads/2016/02/spring-framework.png" align="left" max-width="100%" alt="Spring Tools Suite">
+![](https://img.shields.io/badge/Code-React-informational?style=flat-square&logo=react&color=61DAFB)
+![](https://img.shields.io/badge/Tools-Angular-informational?style=flat-square&logo=Angular&color=E23237)
+![](https://img.shields.io/badge/Tools-Java-informational?style=flat-square&logo=Java&color=E23237)
+![](https://img.shields.io/badge/Code-CS-informational?style=flat-square&logo=csharp&color=764ABC)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=JavaScript&color=F7DF1E)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat-square&logo=HTML5&color=E34F26)
+![](https://img.shields.io/badge/Code-MySQL-informational?style=flat-square&logo=MySql&color=003B57)
+
+</br>
+
+![](https://img.shields.io/badge/Style-SCSS-informational?style=flat-square&logo=Sass&color=DB7093)
+![](https://img.shields.io/badge/Style-CSS3-informational?style=flat-square&logo=CSS3&color=1572B6)
+
+</br>
+
+![](https://img.shields.io/badge/Tools-Figma-informational?style=flat-square&logo=Figma&color=F24E1E)
+![](https://img.shields.io/badge/Tools-NPM-informational?style=flat-square&logo=NPM&color=CB3837)
+![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat-square&logo=Heroku&color=430098)
+![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat-square&logo=netlify&color=00C7B7)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat-square&logo=Git&color=F05032)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat-square&logo=GitHub&color=181717)
+
+## 📈 GitHub Stats 
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=donatto22&theme=tokyonight)](https://github.com/donatto22)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donatto22&layout=compact&theme=tokyonight)](https://github.com/donatto22)
+
+
