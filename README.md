@@ -1,7 +1,5 @@
 ## Welcome to my Profile! 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=donatto22)](https://github.com/donatto22)
-
-[Este es un comentario]: <> (a reference style link.)
+[Colocar este link es Visitors]: <> (https://visitor-badge.glitch.me/badge?page_id=donatto22)
 > <img width=20px src="https://dashboard.snapcraft.io/site_media/appmedia/2021/05/discord.png" align="center" max-width="100%" alt="Discord"/> • Polroid#9773
 
 <a href="https://www.linkedin.com/in/devdonatto-minaya/">
