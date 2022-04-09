@@ -29,6 +29,7 @@
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat-square&logo=Angular&color=E23237)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat-square&logo=Java&color=E23237)
 ![](https://img.shields.io/badge/Code-CS-informational?style=flat-square&logo=csharp&color=764ABC)
+![](https://img.shields.io/badge/Style-TypeScript-informational?style=flat-square&logo=TypeScript&color=1572B6)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat-square&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat-square&logo=MySql&color=003B57)
