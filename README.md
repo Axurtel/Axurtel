@@ -1,6 +1,6 @@
 ## Welcome to my Profile! 
 [Colocar este link es Visitors]: <> (https://visitor-badge.glitch.me/badge?page_id=donatto22)
-> <img width=20px src="https://dashboard.snapcraft.io/site_media/appmedia/2021/05/discord.png" align="center" max-width="100%" alt="Discord"/> • Polroid#9773
+> <img width=20px src="https://static.wikia.nocookie.net/discord/images/4/47/Discord_Canary.png/revision/latest?cb=20210918142724" align="center" max-width="100%" alt="Discord"/> • Polroid#9773
 
 <a href="https://www.linkedin.com/in/devdonatto-minaya/">
   <img width=22px src="https://cdn-icons-png.flaticon.com/512/174/174857.png" align="left" max-width="100%" alt="LinkedIn"/>
