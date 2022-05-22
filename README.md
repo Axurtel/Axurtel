@@ -18,7 +18,7 @@
 <hr>
 
 ### 💬 About me
-- 👤 19 years old
+- 👤 20 years old
 - 🌍 Portuguese , Spanish `(Native)` , English , Hangul `(Learning)`
 - 🖤 Violin | Photography
 </br>
