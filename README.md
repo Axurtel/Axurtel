@@ -51,13 +51,10 @@
 ## 📈 GitHub Stats 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=donatto22&show_icons=true&locale=en&theme=dark&hide_border=true&cache_seconds=1800&icon_color=00ffff&text_color=61dafb&title_color=00ffff" alt="skick1234" />
-  <br>
 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=donatto22&theme=dark&hide_border=true" alt="streak stats"/>
   <br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=donatto22&hide=css&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" alt="donatto22" />
 </div>
 
 
