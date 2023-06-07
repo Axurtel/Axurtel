@@ -18,7 +18,7 @@
 <hr>
 
 ### 💬 About me
-- 👤 20 years old
+- 👤 21 years old
 - 🌍 Portuguese , Spanish `(Native)` , English , Hangul `(Learning)`
 - 🖤 Violin | Photography
 </br>
@@ -26,7 +26,8 @@
 ## 💼 Technical Skills
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat-square&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat-square&logo=Java&color=E23237)
+![](https://img.shields.io/badge/Code-Angular-informational?style=flat-square&logo=angular&color=E23237)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat-square&logo=java&color=E23237)
 ![](https://img.shields.io/badge/Code-CS-informational?style=flat-square&logo=csharp&color=764ABC)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat-square&logo=TypeScript&color=1572B6)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=JavaScript&color=F7DF1E)
