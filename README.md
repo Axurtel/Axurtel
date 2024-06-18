@@ -26,18 +26,17 @@
 ## 💼 Technical Skills
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat-square&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat-square&logo=angular&color=E23237)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat-square&logo=java&color=E23237)
-![](https://img.shields.io/badge/Code-CS-informational?style=flat-square&logo=csharp&color=764ABC)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat-square&logo=TypeScript&color=1572B6)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat-square&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat-square&logo=MySql&color=003B57)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=Python&color=0077B7)
 
 </br>
 
 ![](https://img.shields.io/badge/Style-SCSS-informational?style=flat-square&logo=Sass&color=DB7093)
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat-square&logo=CSS3&color=1572B6)
+![](https://img.shields.io/badge/Design-Figma-informational?style=flat-square&logo=Figma&color=purple)
 
 </br>
 
