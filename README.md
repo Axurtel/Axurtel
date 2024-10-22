@@ -2,7 +2,7 @@
 [Colocar este link es Visitors]: <> (https://visitor-badge.glitch.me/badge?page_id=donatto22)
 > <img width=20px src="https://static.wikia.nocookie.net/discord/images/4/47/Discord_Canary.png/revision/latest?cb=20210918142724" align="center" max-width="100%" alt="Discord"/> • !Marenol#9773
 
-<a href="https://www.linkedin.com/in/devdonatto-minaya/">
+<a href="https://www.linkedin.com/in/marenol/">
   <img width=22px src="https://cdn-icons-png.flaticon.com/512/174/174857.png" align="left" max-width="100%" alt="LinkedIn"/>
 </a>
   
@@ -18,8 +18,8 @@
 <hr>
 
 ### 💬 About me
-- 👤 21 years old
-- 🌍 Portuguese , Spanish `(Native)` , English , Hangul `(Learning)`
+- 👤 22 years old
+- 🌍 Spanish `(Native)` , English
 - 🖤 Violin | Photography
 </br>
 
